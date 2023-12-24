@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<footer>This is footer branch</footer>
+<footer>this is footer tag</footer>
 
 </body>
 </html>
